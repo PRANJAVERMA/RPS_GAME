@@ -1,8 +1,7 @@
 # RPS_GAME                                                                                     
 # Rock Paper scissors Game
 Here's a screenshot of what the project's first page looks like:
-<img src="Pranjal.png"/>
-<img src="RPS.pranjal.png"/>
+<img src="output.png"/>
 
 ## Table of Contents
 
