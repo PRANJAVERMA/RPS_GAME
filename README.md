@@ -1,8 +1,8 @@
 # RPS_GAME                                                                                     
 # Rock Paper scissors Game
 Here's a screenshot of what the project's first page looks like:
-<img src="C:\Users\verma\Pictures\Screenshots\Pranjal.png"/>
-<img src="C:\Users\verma\Pictures\Screenshots\RPS.pranjal.png"/>
+<img src="https://github.com/PRANJAVERMA/RPS_GAME/commits?author=PRANJAVERMA"/>
+<img src="https://github.com/PRANJAVERMA/RPS_GAME/commits?author=PRANJAVERMA"/>
 
 ## Table of Contents
 
