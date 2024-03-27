@@ -8,7 +8,7 @@ Here's a screenshot of what the project's first page looks like:
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Why Create a Game?](#why-create-a-Game)
+- [Why Creating a Game?](#why-create-a-Game)
 
 ## Introduction
 
@@ -28,7 +28,7 @@ Welcome to the Rock Paper Scissors Game! This project brings the classic game to
 * Javascript
 
 
-## Why Create a Game?
+## Why Creating a Game?
 
 The Rock Paper Scissors game is more than just a simple pastime. It's an opportunity to entertain and engage users while showcasing your skills in web development. By creating this game, you have the chance to:
 
